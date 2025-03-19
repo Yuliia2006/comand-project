@@ -1,0 +1,46 @@
+.section-collaboration {
+  padding: 50px 0;
+}
+.collaboration-container {
+  display: flex;
+  gap: 84px;
+}
+.container-collaboration-text {
+  padding: 41px 0;
+  width: 486px;
+}
+.one {
+  margin-bottom: 30px;
+}
+.collaboration-title-span {
+  font-weight: 600;
+  font-size: 16px;
+  color: #22343d;
+  margin-bottom: 8px;
+}
+.collaboration-title {
+  font-weight: 700;
+  font-size: 32px;
+  color: #22343d;
+  width: 226px;
+  margin-bottom: 25px;
+}
+
+.collaboration-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #22343d;
+}
+.collaboration-list {
+}
+.collaboration-list-item {
+  margin-bottom: 25px;
+}
+.collaboration-list-subtitle {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #22343d;
+  margin-bottom: 12px;
+}

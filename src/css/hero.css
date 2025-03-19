@@ -1,0 +1,49 @@
+.section-hero {
+  padding: 25px 0 50px;
+}
+.hero-container {
+  display: flex;
+  gap: 35px;
+}
+
+.wrapper {
+  padding: 112px 0;
+}
+
+.hero-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.5;
+  color: #22343d;
+}
+.hero-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.56;
+  color: #22343d;
+  margin-bottom: 45px;
+}
+.hero-list {
+  display: flex;
+  gap: 30px;
+}
+.hero-list-item {
+}
+.hero-list-btn {
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  background-color: #02897a;
+  border-radius: 4px;
+  width: 178px;
+  height: 53px;
+}
+.hero-list-btn2 {
+  font-weight: 600;
+  width: 178px;
+  height: 53px;
+  background: transparent;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #02897a;
+}
